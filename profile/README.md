@@ -1,7 +1,7 @@
 # 🚀 Welcome to The WFA!
 
 ## About Us
-The Wheelchair Football Association is the governing body for Powerchair Football in England and Wales. We develop many systems to improve internal workflows and also external engagement with the amazing sport of Powerchair Football.
+The Wheelchair Football Association is the governing body for Powerchair Football in England. We develop many systems to improve internal workflows and also external engagement with the amazing sport of Powerchair Football.
 
 ## 📌 Projects
 We are actively working on exciting projects, including:
